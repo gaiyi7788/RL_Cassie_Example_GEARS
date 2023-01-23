@@ -1,0 +1,10 @@
+Task 1:
+1) Run the mirror_testing.py script {make sure you are able to run it without any errors, Please let us know if you encounter any issues while running it} 
+
+Task 2:
+2) For the current mirror testing.py scrip the Cassie robot walks forward based on a learned policy, 
+and I have added a perturbation of 10 at time step of 200, on the left side to observe its motion
+
+todo:
+To add a perturbation of 10 at time step 500, on the right,
+To add a perturbation of 5 at time step of 900 on the front
